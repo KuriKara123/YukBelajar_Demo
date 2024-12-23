@@ -1,0 +1,6 @@
+/vendor
+/node_modules
+/testsc
+/storage/logs
+/storage/framework/sessions
+/storage/framework/testing
